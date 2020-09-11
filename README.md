@@ -5,7 +5,6 @@ I am currently in my first year of my BSc Digital and Technology apprenticeship 
 
 I enjoy a range of programming such as C#, Web development, Web API and Microservices.
 
-<!--
 **johnmason27/johnmason27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,5 +22,3 @@ As well as that I'm constantly learning new things during the day at my apprenti
 
 - 📫 How to reach me: ...
 https://www.linkedin.com/in/john-mason-a53080195/
-
--->
