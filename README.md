@@ -5,9 +5,6 @@ I am currently in my first year of my BSc Digital and Technology apprenticeship 
 
 I enjoy a range of programming such as C#, Web development, Web API and Microservices.
 
-**johnmason27/johnmason27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a website using a NES 64 themed libary (https://github.com/nostalgic-css/NES.css). I found this libary and beleive it looks very cool so wanted to create some sort of website using it so I'm going to make a NES 64 themed bug tracker. Which maybe eventually I could make 3 teired.
 
@@ -20,5 +17,4 @@ As well as that I'm constantly learning new things during the day at my apprenti
 
 - 💬 Ask me about C#, API's, Message Queues and Web Development!
 
-- 📫 How to reach me: ...
-https://www.linkedin.com/in/john-mason-a53080195/
+- 📫 How to reach me: https://www.linkedin.com/in/john-mason-a53080195/
