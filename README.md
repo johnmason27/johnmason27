@@ -5,4 +5,4 @@ I am currently in my first year of my BSc Digital and Technology apprenticeship 
 
 I enjoy all sorts of programming!
 
-- 📫 How to reach me: https://www.linkedin.com/in/john-mason-a53080195/
+📫 How to reach me: https://www.linkedin.com/in/john-mason-a53080195/
