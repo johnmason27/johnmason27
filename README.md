@@ -3,17 +3,6 @@ I work at PebblePad as a Apprentice Application Developer.
 
 I am currently in my first year of my BSc Digital and Technology apprenticeship with PebblePad. At PebblePad I will be developing my skills as a software engineer and gaining valuable workplace experience which is important to me because I will be able learn the day to days of being a software engineer. Alongside that I'm also doing my degree in Digital and Technology solutions which will help further develop my core programming. 
 
-I enjoy a range of programming such as using C#, Web development, Web API's and Microservices.
-
-
-- 🔭 I’m currently working on a website using a NES 64 themed libary (https://github.com/nostalgic-css/NES.css). I found this libary and beleive it looks very cool so wanted to create some sort of website using it so I'm going to make a NES 64 themed bug tracker.
-
-- 🌱 I’m currently learning alongside all my work at PebblePad I'm researching into GraphQL. I'm doing this to make my web applications 3 teired and provide much more functionaltity to it. The web application is a blogsite and it's something I've been enjoying and will be continuing to develop.
-
-- 👯 I’m looking to collaborate on anything I enjoy frontend and backend projects.
-
-- 🤔 I’m looking for help with ... currently nothing...
-
-- 💬 Ask me about C#, API's, Message Queues and Web Development!
+I enjoy all sorts of programming!
 
 - 📫 How to reach me: https://www.linkedin.com/in/john-mason-a53080195/
