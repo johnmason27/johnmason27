@@ -7,7 +7,8 @@ I enjoy all sorts of programming! Mainly using languagues such as:
 - Python
 
 ### How to reach me: 📫 
-- https://www.linkedin.com/in/john-mason-a53080195/
+- Linkedin: https://www.linkedin.com/in/john-mason-a53080195/
+-- Instagram: https://www.instagram.com/john._.mason/
 
 ### Github stats
 [![John's github stats](https://github-readme-stats.vercel.app/api?username=johnmason27)](https://github.com/anuraghazra/github-readme-stats)
