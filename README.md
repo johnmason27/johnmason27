@@ -16,6 +16,3 @@ I enjoy all sorts of programming! Mainly using languagues such as: 💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmason27)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/johnmason27)  
-<li >
-  <ul style="list-style-type: square;">This is a test</ul>
-</li>
