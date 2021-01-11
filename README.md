@@ -7,5 +7,5 @@ I enjoy all sorts of programming!
 
 📫 How to reach me: https://www.linkedin.com/in/john-mason-a53080195/
 
-##### Github stats
+### Github stats
 [![John's github stats](https://github-readme-stats.vercel.app/api?username=johnmason27)](https://github.com/anuraghazra/github-readme-stats)
