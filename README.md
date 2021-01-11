@@ -12,3 +12,7 @@ I enjoy all sorts of programming! Mainly using languagues such as:
 
 ### Github stats
 [![John's github stats](https://github-readme-stats.vercel.app/api?username=johnmason27)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmason27)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/johnmason27)  
