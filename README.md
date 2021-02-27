@@ -21,4 +21,8 @@ Dev Community:
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmason27&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
 
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=johnmason27&theme=darkhub&no-frame=true&margin-w=30" />
+</div>
+
 ![Profile views](https://gpvc.arturio.dev/johnmason27)  
