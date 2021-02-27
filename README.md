@@ -6,6 +6,10 @@ I enjoy all sorts of programming! Mainly using languagues such as: 💻
 - HTML/CSS/JavaScript
 - Python
 
+[![C#](https://img.shields.io/badge/-CSharp-000?&logo=csharp)](https://github.com/johnmason27)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/johnmason27)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/johnmason27)
+
 ### How to reach me: 📫 
 LinkedIn: 
 - https://www.linkedin.com/in/john-mason-a53080195/
