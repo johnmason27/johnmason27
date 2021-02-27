@@ -2,12 +2,7 @@
 I work at PebblePad as a Apprentice Application Developer. I am currently in my first year of my BSc Digital and Technology degree as well. 
 
 I enjoy all sorts of programming! Mainly using languagues such as: 💻
-- C#
-- HTML/CSS/JavaScript
-- Python
-
-![C#](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgreybax%2Fawesome-IT-films%2Fmaster%2Fbadge_endpoint.json)
-[![C#](https://img.shields.io/badge/-C#-000?&logo=csharp)](https://github.com/johnmason27)
+[![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)](https://github.com/johnmason27)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/johnmason27)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/johnmason27)
 
