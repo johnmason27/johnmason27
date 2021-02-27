@@ -16,9 +16,10 @@ Instagram:
 Dev Community: 
 - https://dev.to/john_mason_1639504125deba
 
-### Github stats 📃
+<div>
 [![John's github stats](https://github-readme-stats.vercel.app/api?username=johnmason27)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmason27)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ![Profile views](https://gpvc.arturio.dev/johnmason27)  
