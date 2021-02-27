@@ -22,7 +22,7 @@ Dev Community:
 </a>
 
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=johnmason27&theme=darkhub&no-frame=true&margin-w=30" />
+ <img src="https://github-profile-trophy.vercel.app/?username=johnmason27&theme=darkhub&no-frame=true&margin-w=10" />
 </div>
 
 ![Profile views](https://gpvc.arturio.dev/johnmason27)  
