@@ -7,7 +7,7 @@ I enjoy all sorts of programming! Mainly using languagues such as: 💻
 - Python
 
 ### How to reach me: 📫 
-Linkedin: 
+LinkedIn: 
 - https://www.linkedin.com/in/john-mason-a53080195/
 
 Instagram: 
