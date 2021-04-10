@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm John 🏃‍♂️👋
 I work at PebblePad as a Apprentice Application Developer. I am currently in my first year of my BSc Digital and Technology degree as well. 
 
 I enjoy all sorts of programming! Mainly using languagues such as: 💻  
